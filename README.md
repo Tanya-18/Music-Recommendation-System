@@ -1,5 +1,5 @@
 # Music-Recommendation-System
-## Introduction and Project Goals
+## Introduction and Project Goals:
 - Spotify creators and artists rely on user interaction to increase traffic on their profiles. In adddition to song plays, artists often make playlists of personally-recommended songs to engage with their audience. For users, Spotify may recommend its own playlists, similar artists or songs based on other user metrics or artist/song similarities. This project seeks to increase direct user interaction with artists in Spotify by building a content-based recommendation system of songs in a artist's playlist. The user will input any songs of their choosing or manually adjust Spotify audio features, and the recommender will return a list of similar songs from the playlist based on the numerical data of audio features as defined by Spotify. By suggesting playlist songs with the most similarities to a user-suggested track we aim to increase user engagement and traffic to the artist's playlist and Spotify profile.
 ## Data
 - We will be using a 1700+ row dataset collected from the Spotify API and consisting of songs from a playlist from DJ and producer Four Tet, which can be found in the above CSV file.
